@@ -1,0 +1,40 @@
+.container {
+	background-color: #070707;
+	width: 700px;
+	border: solid 5px;
+	border-radius: 20px;
+	border-color: #EFF561;
+}
+.l1 {
+	margin-left: 210px;
+	margin-top: 40px;
+}
+.row2{
+	margin-left: 30px;
+	margin-right: 30px;
+}
+.row3{
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+.row3 button{
+	width: 100%;
+	border-radius: 15px;
+	background-color: #7d8c81;
+	color: #3af26e;
+}
+.col2{
+	margin-top: 30px;
+	margin-bottom: 35px;
+}
+.container1 h1{
+	color: #94C943;
+}
+.container1 label{
+	color: #94C943;
+}
+.container1 h3{
+	color: #94C943;
+}
+
+
